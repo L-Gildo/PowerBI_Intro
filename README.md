@@ -26,7 +26,7 @@ Se você quiser contribuir para este repositório, fique à vontade para abrir u
 
 ## Contato
 
-Você pode me encontrar no LinkedIn([https://www.linkedin.com/])(https://www.linkedin.com/in/leonardo-gildo-a80334304) para trocar ideias, discutir projetos ou apenas bater um papo sobre Business Intelligence e tecnologia.
+Você pode me encontrar no <a href="https://www.linkedin.com/in/leonardo-gildo-a80334304">Linkedin</a> para trocar ideias, discutir projetos ou apenas bater um papo sobre Business Intelligence e tecnologia.
 
 ---
 
