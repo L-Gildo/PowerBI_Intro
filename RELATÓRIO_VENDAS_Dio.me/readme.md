@@ -16,13 +16,12 @@ Criação de um Relatório de Vendas com Power BI.
 
 ## 👨🏽‍💻 Autor
 
-Bruno Dórea
+Leonardo Gildo
 
-![https://www.linkedin.com/in/brunohfdorea/](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
-[![https://www.brunodorea.com.br](https://img.shields.io/static/v1?style=for-the-badge&message=brunodorea.com.br&color=262626&label=%3Cb/%3E&labelColor=dd9208)](https://www.brunodorea.com.br)
+Você pode me encontrar no <a href="https://www.linkedin.com/in/leonardo-gildo-a80334304">Linkedin</a> para trocar ideias, discutir projetos ou apenas bater um papo sobre Business Intelligence e tecnologia.
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
